@@ -4,21 +4,20 @@ I am [Anjali](https://github.com/anjalisharma122) , a passionate Coding Enthusia
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/101390725/190355324-a0e8b36a-6c23-46df-93b2-aa01c7dddd24.gif">
 
 
-- 🌱 I am skilled in building web applications with React, ensuring smooth and engaging user experiences.
-- 📫 How to reach me: 
-    [LinkedIn](https://www.linkedin.com/in/anjali-sharma-588145289/)
+### 🚀 About Me  
+🌱 Skilled in **React, JavaScript, HTML, CSS, and Tailwind CSS**, focused on creating **smooth and engaging user experiences**.  
+⚡ Actively participating in **hackathons and coding competitions**, with a strong problem-solving mindset.  
+💡 Exploring **Redux and backend technologies** to expand my full-stack development skills.   
 
-- ⚡ Interested in Internships as a Software Developer and Build amazing application for your Company.
+### 💻 Tech Stack  
+- **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS  
+- **Version Control:** Git, GitHub  
+- **Programming Languages:** C++  
 
-### We can have chat at any social platform:
+### 🎯 Looking for Opportunities  
+🔹 **Internships** in **Software Development / Frontend Development**  
+🔹 Excited to **build amazing applications** that create an impact  
 
-
-
-[<img align="left" alt="Anjali | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" alt="Anjali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="Anjali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
-
-<br />
 
 
 ### Languages and Tools:
@@ -35,15 +34,24 @@ I am [Anjali](https://github.com/anjalisharma122) , a passionate Coding Enthusia
 <br />
 <br />
 
-## :trophy:  My Github Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali0701&show_icons=true&locale=en&layout=compact" alt="anjali0701" /></p>
+## 📊 GitHub Stats & Activity
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali0701&show_icons=true&locale=en" alt="anjali0701" /></p>
-| ![Anjali's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=anjali0701&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjali0701) |
-| --- | --- |
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=anjalii0701&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anjalii0701&layout=compact&theme=github_dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
+
+
+
+
 
 
 
