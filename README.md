@@ -39,6 +39,11 @@ I am [Anjali](https://github.com/anjalisharma122) , a passionate Coding Enthusia
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali0701&show_icons=true&locale=en&layout=compact" alt="anjali0701" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali0701&show_icons=true&locale=en" alt="anjali0701" /></p>
+| ![Anjali's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=anjali0701&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjali0701) |
+| --- | --- |
+
+
+---
 
 
 
