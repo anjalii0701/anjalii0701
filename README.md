@@ -36,11 +36,11 @@ I am [Anjali](https://github.com/anjalisharma122) , a passionate Coding Enthusia
 <br />
 
 ## :trophy:  My Github Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjalisharma122&show_icons=true&locale=en&layout=compact" alt="anjalisharma122" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali0701&show_icons=true&locale=en&layout=compact" alt="anjali0701" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalisharma122&show_icons=true&locale=en" alt="anjalisharma122" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali0701&show_icons=true&locale=en" alt="anjali0701" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalisharma122&" alt="anjalisharma122" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali0701&" alt="anjali0701" /></p>
 
 <!--
 **anjalii0701/anjalii0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
